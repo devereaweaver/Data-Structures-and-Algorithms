@@ -36,7 +36,7 @@ int main()
 	std::cout << "[ ";
 	for (size_t i{}; i < size; ++i)
 		std::cout << numbers[i] << " ";
-	std::cout << "]" << std::endl;
+	std::cout << "]\n" << std::endl;
 
 	// best case scenario: key = 54
 	std::cout << "Search for key = 54..." << std::endl;
