@@ -56,5 +56,4 @@ int main()
 	else 
 		std::cout << "Key " << key << " is located at element " 
 			<< keyIndex << "." << std::endl;
-
 }
